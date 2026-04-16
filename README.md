@@ -1,5 +1,4 @@
-## “While eyes are petrified, hands do the job!”
-
+> *“While eyes are petrified, hands do the job!”*
 
 <!--
 **homayoun-afshari/homayoun-afshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
